@@ -1,5 +1,7 @@
 # 📊 Optimizing E-Commerce Sales with Data Analytics
 
+![E-Commerce](ecommerce-3640321_1280.jpg)
+
 ## 📌 Project Overview  
 This project explores e-commerce sales data to derive actionable business insights, optimize discount strategies, and improve profitability. Using **Python (Pandas, Matplotlib, Seaborn)**, I performed **data cleaning, exploratory data analysis (EDA), and visualization** to uncover trends in sales, profits, and customer behavior.
 
